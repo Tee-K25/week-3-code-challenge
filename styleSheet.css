@@ -11,3 +11,11 @@
 #movie_card {
   grid-column: 2;
 }
+.home_card {
+  float: "right";
+  border: solid 1px black;
+  padding: 4px;
+}
+#titles {
+  text-align: center;
+}
